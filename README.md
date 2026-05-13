@@ -1,9 +1,5 @@
 # Blua — Sistema de Gerenciamento de Fila de Atendimento
 
-> **Sprint:** Estruturas de Dados Aplicadas à Saúde Digital  
-> **Disciplina:** Estruturas de Dados  
-> **Linguagem:** C (padrão C99)
-
 ---
 
 ## Descrição
