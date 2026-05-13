@@ -1,7 +1,5 @@
 # Blua — Sistema de Gerenciamento de Fila de Atendimento
 
----
-
 ## Descrição
 
 A **Care Plus** está expandindo a plataforma **Blua** para oferecer cuidado remoto proativo. Este projeto implementa o núcleo do sistema de gerenciamento de filas de teleconsultas, capaz de:
